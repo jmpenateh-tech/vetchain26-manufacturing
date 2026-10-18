@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+*.log
+.DS_Store
+
+# Imágenes del catálogo si se ejecuta el servicio fuera de Docker
+uploads/
